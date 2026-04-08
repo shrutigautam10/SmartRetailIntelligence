@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+openenv/
+smart-retail-env/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Zip archives (too large for GitHub)
+*.zip
+
+# Diagnostic / temp files
+diagnose.py
+diagnose_output.txt
+diagnose_result.txt
+
+# Data folder (large raw datasets - optional)
+# data/
